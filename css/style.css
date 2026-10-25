@@ -24,3 +24,53 @@
 .audio-card audio{grid-column:1/-1;width:100%;height:42px}
 .audio-status{grid-column:1/-1;margin:0;color:#a1878b;font-size:11px;text-align:center}
 @media(max-width:760px){.audio-card{padding:17px;gap:10px 14px}.audio-art{width:54px;height:54px}.audio-copy strong{font-size:19px}}
+```css
+/* Điều chỉnh lời chúc sinh nhật trên điện thoại */
+.wish-dialog {
+    width: min(520px, calc(100% - 28px));
+    padding: 34px 26px;
+    box-sizing: border-box;
+}
+
+.wish-dialog h2 {
+    font-size: clamp(29px, 7vw, 38px);
+    line-height: 1.25;
+    overflow-wrap: normal;
+    word-break: normal;
+    text-wrap: balance;
+}
+
+.wish-dialog > p:not(.eyebrow) {
+    font-size: clamp(16px, 4.2vw, 19px);
+    line-height: 1.8;
+    text-align: center;
+    overflow-wrap: break-word;
+    word-break: normal;
+}
+
+.wish-dialog .dialog-sign {
+    font-size: clamp(15px, 3.8vw, 18px);
+    line-height: 1.7;
+}
+
+.wish-dialog .primary-btn {
+    max-width: 100%;
+    white-space: normal;
+    line-height: 1.5;
+}
+
+@media (max-width: 480px) {
+    .wish-dialog {
+        padding: 30px 20px;
+    }
+
+    .wish-dialog h2 {
+        font-size: 30px;
+    }
+
+    .wish-dialog > p:not(.eyebrow) {
+        font-size: 16px;
+        line-height: 1.85;
+    }
+}
+```
