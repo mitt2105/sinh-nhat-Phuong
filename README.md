@@ -3,8 +3,7 @@
 Website sinh nhật mobile-first, phong cách hồng phấn – kem – vàng champagne.
 
 ## Đã tích hợp
-- Ảnh bìa `assets/photos/duyen-01.jpg`.
-- Thư viện 5 ảnh bổ sung `phuong-02.jpg` đến `phuong-06.jpg`, có chức năng phóng to.
+- Ba ảnh của Phương: `assets/photos/phuong-01.png` làm ảnh bìa và `phuong-02.png`, `phuong-03.png` trong thư viện, có chức năng phóng to.
 - Nhạc MP3 `assets/music/birthday.mp3` từ file người dùng cung cấp.
 - Lời chúc sinh nhật theo nội dung người dùng cung cấp, ký tên “Một người bạn gần”.
 - Hiệu ứng hoa/trái tim/pháo hoa và bố cục responsive.
