@@ -1,10 +1,10 @@
-# Happy Birthday Duyên ♡ — bản hoàn chỉnh
+# Happy Birthday Phương ♡ — bản hoàn chỉnh
 
 Website sinh nhật mobile-first, phong cách hồng phấn – kem – vàng champagne.
 
 ## Đã tích hợp
 - Ảnh bìa `assets/photos/duyen-01.jpg`.
-- Thư viện 5 ảnh bổ sung `duyen-02.jpg` đến `duyen-06.jpg`, có chức năng phóng to.
+- Thư viện 5 ảnh bổ sung `phuong-02.jpg` đến `phuong-06.jpg`, có chức năng phóng to.
 - Nhạc MP3 `assets/music/birthday.mp3` từ file người dùng cung cấp.
 - Lời chúc sinh nhật theo nội dung người dùng cung cấp, ký tên “Một người bạn gần”.
 - Hiệu ứng hoa/trái tim/pháo hoa và bố cục responsive.
