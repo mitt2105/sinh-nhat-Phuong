@@ -16,7 +16,7 @@ Giải nén ZIP rồi mở `index.html` trong trình duyệt. Tệp ảnh và MP
 
 ## Triển khai GitHub Pages
 1. Giải nén ZIP.
-2. Tải các tệp bên trong thư mục dự án lên repository `https://github.com/mitt2105/sinh-nhat-Uyen`, bảo đảm `index.html` ở thư mục gốc của nhánh xuất bản.
+2. Tải các tệp bên trong thư mục dự án lên repository `https://github.com/mitt2105/sinh-nhat-Phuong`, bảo đảm `index.html` ở thư mục gốc của nhánh xuất bản.
 3. Vào **Settings → Pages**.
 4. Chọn **Deploy from a branch**, nhánh `main`, thư mục `/(root)`, rồi **Save**.
 5. Mở URL Pages GitHub cung cấp sau khi triển khai.
